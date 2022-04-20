@@ -1,1 +1,1 @@
-SapplyValues is a clone of the Sapply political compass, made to use 8values' UI.
+ModernCompass is a variation on the classic political compass. Code forked from SapplyValues, which is based on 8values.
